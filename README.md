@@ -1,5 +1,25 @@
 ### Hi there 👋 I'm Ganesh 🙋‍♂️
 
+<a href="https://twitter.com/kavharg">
+  <img align="left" alt="ganesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="hhttps://www.linkedin.com/in/ganeshkavhar/">
+  <img align="left" alt="ganesh Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ganeshkavhar">
+  <img align="left" alt="Ganesh on  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ganeshkavhar">
+  <img align="left" alt="Ganesh Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/ganeshkavhar/">
+  <img align="left" alt="Ganesh Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+
+<br/>
+
 <!--
 **ganeshkavhar/ganeshkavhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
