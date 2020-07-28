@@ -36,7 +36,7 @@ I am a coder , educator and a Data Scientist. I love data and analytics. In my d
 Data Scientist with extensive  in solving many real world business problems across different domains.
 
 ### Data Science 
-I love Python and woring fon Data Scienc since few months.
+I love Python and woring for Data Science since few months.
 
 ### Reach Me
 
