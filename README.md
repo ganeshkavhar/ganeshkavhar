@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ganesh 🙋‍♂️
 
 
-<a href="hhttps://www.linkedin.com/in/ganeshkavhar/">
+<a href="https://www.linkedin.com/in/ganeshkavhar">
   <img align="left" alt="ganesh Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ganeshkavhar">
