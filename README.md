@@ -41,6 +41,7 @@ I love Python and woring for Data Science since few months.
 ## Skills ⭕
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="48" src="https://www.rlogical.com/wp-content/uploads/2019/05/android.png"></code>
+<code><img height="48" src="https://www.exatosoftware.com/blog/wp-content/uploads/2020/04/web-development-features.jpg"></code>
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
