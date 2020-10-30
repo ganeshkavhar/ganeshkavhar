@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Mobile App developer.
 - 📱 Web developer.
-- 👨‍💻 Mostly working on ❤️Web Development  ❤️ Android 🔥 Python !
+- 👨‍💻 Mostly working on ❤️ Web Development  ❤️ Android 🔥 Python !
 - 🌐 Little bit exploring Data Science too.
 - Proud 🇮🇳.
 
@@ -50,6 +50,7 @@ I love Python and woring for Data Science since few months.
 <code><img height="60" src="https://abutua.com/images/cabutua03.png"></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="53" src="https://img.icons8.com/color/452/mongodb.png"></code>
+<code><img height="53" src="https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png"></code>
 
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
