@@ -1,15 +1,24 @@
-### Hi there 👋 I'm Ganesh 🙋‍♂️
+### Hi there 👋 I'm Ganesh 🙋‍♂️       <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 
-<a href="https://www.linkedin.com/in/ganeshkavhar">
-  <img align="left" alt="ganesh Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.github.com/ganeshkavhar/">
+  <img align="left" alt="Ganesh GitHub " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/github.svg" />
 </a>
-<a href="https://github.com/ganeshkavhar">
-  <img align="left" alt="Ganesh on  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.linkedin.com/in/ganeshkavhar/">
+  <img align="left" alt="Ganesh LinkedIN" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/linkedin.svg" />
+</a> 
+<a href="https://www.instagram.com/ganeshkavhar/">
+  <img align="left" alt="Ganesh  Instagram" width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/instagram.svg" />
 </a>
-<a href="https://t.me/ganeshkavhar">
-  <img align="left" alt="Ganesh Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://www.facebook.com/ganeshkavhar/">
+  <img align="left" alt="Ganesh  Facebook " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/facebook.svg" />
 </a>
+<a href="https://www.twitter.com/kavharg/">
+  <img align="left" alt="Ganesh Twitter " width="22px" src="https://raw.githubusercontent.com/hiverkiya/hiverkiya/master/images/twitter.svg" />
+</a>
+
+
+![Profile views](https://gpvc.arturio.dev/ganeshkavhar) 
 
 
 
