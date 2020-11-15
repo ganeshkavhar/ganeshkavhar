@@ -20,7 +20,7 @@
   <img align="left" alt="Ganesh Medium " width="22px" src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/0eb8e772-8880-46b2-98ee-257cf9c2fa2c/File/d3a660af8932f6bd201f17bc6ce993c5/gjbzh1ue.jpg"/>
 </a>
 <a href="https://www.hackerrank.com/ganeshkavhar">
-  <img align="left" alt="Ganesh Hackerrank " width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
+  <img align="left" alt="Ganesh Hackerrank " width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/ganeshkavhar) 
