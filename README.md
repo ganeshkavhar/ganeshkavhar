@@ -52,7 +52,7 @@ Data Scientist with extensive  in solving many real world business problems acro
 ### Data Science 
 I love Python and woring for Data Science since few months.
 
-## ## 📱 Android & iOS Apps
+## 📱 Android & iOS Apps
 <code><a href="https://play.google.com/store/apps/dev?id=8393030826598083311" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></a></code>
 
