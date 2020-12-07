@@ -52,11 +52,11 @@ Data Scientist with extensive  in solving many real world business problems acro
 ### Data Science 
 I love Python and woring for Data Science since few months.
 
-## 📱 Android & iOS Apps
+### 📱 Android & iOS Apps
 <code><a href="https://play.google.com/store/apps/dev?id=8393030826598083311" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></a></code>
 
-## Skills ⭕
+### Skills ⭕
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="48" src="https://www.rlogical.com/wp-content/uploads/2019/05/android.png"></code>
 <code><img height="48" src="https://p7.hiclipart.com/preview/237/686/510/html-css-design-and-build-web-sites-responsive-web-design-web-development-cascading-style-sheets-technical-application.jpg"></code>
