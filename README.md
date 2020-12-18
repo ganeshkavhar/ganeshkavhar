@@ -25,9 +25,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/ganeshkavhar) 
 
-
-
-</br>
 </br>
 
 <!--
