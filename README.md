@@ -80,7 +80,7 @@ I love Python and woring for Data Science since few months.
 <code><img height="50" src="https://miro.medium.com/max/600/0*LZQf7b4u8f97izwV.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavithakare28&layout=compact" alt="pallavithakare28" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkavhar&layout=compact" alt="ganeshkavhar" /></p>
 
 
 ### Reach Me
