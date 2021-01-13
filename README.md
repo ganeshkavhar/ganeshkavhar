@@ -33,6 +33,7 @@
 
 Here are some ideas to get you started: 
 -->
+- 👨🏻‍💻 Full stack Developer @ Geo Softech 
 - 👨‍🎓  Master student.
 - 👨‍💻 #SelfTaught Developer.
 - 📱 Mobile App developer.
