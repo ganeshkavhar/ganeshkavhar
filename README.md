@@ -31,11 +31,11 @@
 
 Here are some ideas to get you started: 
 -->
-- 👨🏻‍💻 Aspiring Full stack Developer 
+ 
 - 👨‍🎓  Master student.
 - 👨‍💻 #SelfTaught Developer.
-- 📱 Mobile App developer.
-- 📱 Web developer.
+- 📱 SQL Developer.
+- 📱 ETL .
 - 👨‍💻 Mostly working on ❤️ Web Development  ❤️ Android 🔥 Python !
 - 🌐 Little bit exploring Data Science too.
 - Proud 🇮🇳.
