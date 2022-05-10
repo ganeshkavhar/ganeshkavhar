@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - 👨‍🎓  Master student.
 - 👨‍💻 #SelfTaught Developer.
 - 📱 SQL Developer.
-- 📱 ETL .
-- 👨‍💻 Mostly working on ❤️ Web Development  ❤️ Android 🔥 Python !
+- 📱 ETL Specialist.
+- 👨‍💻 Mostly working on ❤️ Database  ❤️ Orcle 🔥 Python !
 - 🌐 Little bit exploring Data Science too.
 - Proud 🇮🇳.
 
