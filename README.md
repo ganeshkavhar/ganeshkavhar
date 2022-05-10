@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👨‍💻 #SelfTaught Developer.
 - 📱 SQL Developer.
 - 📱 ETL Specialist.
-- 👨‍💻 Mostly working on ❤️ Database  ❤️ Orcle 🔥 Python !
+- 👨‍💻 Mostly working on ❤️ Database  ❤️ Oracle 🔥 Python !
 - 🌐 Little bit exploring Data Science too.
 - Proud 🇮🇳.
 
