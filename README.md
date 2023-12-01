@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📱 ETL Specialist.
 - 👨‍💻 Mostly working on ❤️ Database  ❤️ Oracle 🔥 Python !
 - 🌐 Little bit exploring Data Science too.
-- Proud 🇮🇳.
+- ![india](https://github.com/ganeshkavhar/ganeshkavhar/assets/20369800/0804d912-439b-4e9f-b095-178aeee7f9e1) Proud Indian.
 
 
 ### About Me
